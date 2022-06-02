@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc.
 
 ## Purpose
 
@@ -15,3 +15,4 @@ https://lernantina.github.io/run-buddy/
 
 ##Contribution
 Made with ❤️ by Bryan Nolasco
+git 
