@@ -1,4 +1,4 @@
-* {
+** {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -83,6 +83,7 @@ footer a {
     color: #024e76;
     position: absolute;
     bottom: 120px;
+    right: 140px;
 }
 
 .hero-form h3 {
