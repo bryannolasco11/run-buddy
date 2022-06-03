@@ -68,7 +68,7 @@ footer a {
 
 /*hero Style Start */
 .hero {
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/hero-bg.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -83,6 +83,7 @@ footer a {
     color: #024e76;
     position: absolute;
     bottom: 120px;
+    right: 140px;
 }
 
 .hero-form h3 {
@@ -266,3 +267,4 @@ trainer-bio h4 {
   
   /* REACH OUT STYLES END */
 /* Contact section end */
+
