@@ -19,7 +19,7 @@
 .secondary-content {
     width:80%;
     margin:0 auto;
-    color: #024e76;
+    color: var(--secondary-color);
 }
 
 .secondary-content h3 {
@@ -39,6 +39,6 @@
 }
 
 .secondary-content li {
-    color: #39a6b2;
+    color: var(--tertiary-color);
     margin: 10px 0;
 }
